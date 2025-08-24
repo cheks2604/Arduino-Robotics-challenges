@@ -22,7 +22,9 @@ Challege 5- Built a **light-responsive vehicle** using a photoresistor:
 
 ## How It Works
 The robots relied on sensor input (photoresistors in challenge 5) to adjust motor behavior in real time. Navigation logic was implemented in C++ and tested in multiple indoor lighting conditions.
-
+## Future Improvements
+- Add obstacle avoidance using ultrasonic sensors  
+- Implement PID control for smoother navigation 
 ## Demo
 Note not all demo vidoes are here but the arduino physical build was the sane through the entire challenge.
 
