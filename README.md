@@ -26,7 +26,7 @@ The robots relied on sensor input (photoresistors in challenge 5) to adjust moto
 - Add obstacle avoidance using ultrasonic sensors  
 - Implement PID control for smoother navigation 
 ## Demo
-Note not all demo vidoes are here but the arduino physical build was the sane through the entire challenge.
+Note not all demo vidoes are here but the arduino physical build was the same through the entire challenge.
 
 
 https://github.com/user-attachments/assets/88dc6d04-dbd5-4ac0-9e99-6bd4e8ef69e2
